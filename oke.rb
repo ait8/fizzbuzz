@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# ruby oke.rb
 # Rangeのeachとcase文を使ったシンプルなやつ
 (1..100).each do |i|
   case
