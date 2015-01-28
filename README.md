@@ -17,7 +17,9 @@ yourname.js
 ```
 
 ### 実行例
-```$ node yourname.js
+
+```
+$ node yourname.js
 1
 2
 fizz
