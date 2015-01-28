@@ -13,7 +13,7 @@ class FizzBuzz {
 	}
 
 	public void doFizzBuzz() {
-		for (int i = 1; i <= 100; i++) {
+		for (int i = 1; i <= n; i++) {
 			String s = getFizzOrBuzz(i);
 			System.out.println(s);
 		}
