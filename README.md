@@ -2,7 +2,7 @@ FizzBuzz AIT8
 =============
 
 ### ファイル名
-特にディレクトは掘らなくていい
+特にディレクトリは掘らなくていい
 
 JSなら
 ```
@@ -14,4 +14,19 @@ yourname.js
 
 ```
 // node yourname.js
+```
+
+### 実行例
+```$ node yourname.js
+1
+2
+fizz
+4
+buzz
+(中略)
+fizzbuzz
+16
+17
+fizz
+...
 ```
