@@ -1,3 +1,5 @@
+# ruby yaginuuu.rb
+
 def fizz_buzz(n)
   ret = "#{["Fizz"][n % 3]}#{["Buzz"][n % 5]}"
   ret.empty? ? n.to_s : ret
